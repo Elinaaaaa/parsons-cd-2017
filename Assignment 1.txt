@@ -3,7 +3,7 @@ Use the point as the starting point, draw a 4 inches long vertical line heading 
 Use the point that was drawn in 1. as the starting point, draw a 1-inch-long horizontal line heading to the right edge of the paper.
 Use the two lines as the length and the width, create a rectangle.
 Draw points every 0.25 inches on the two width of the rectangle, then connect the opposite two points together using straight lines.
-Lengthen the most middle line 0.7 inches heading to the bottom edge of the paper, then connect the two bottom points of the rectangle to the end of the lengthened line to form a triangle beneath the rectangle. 
+Lengthen the center line 0.7 inches heading to the bottom edge of the paper, then connect the two bottom points of the rectangle to the end of the lengthened line to form a triangle beneath the rectangle. 
 Erase the lengthened part in 6.
 Measure a length of 0.3 inches on the two sides from the peak of the triangle and mark points on both sides. Connect the two points.
 Fill out the smaller triangle that was created after 8.
