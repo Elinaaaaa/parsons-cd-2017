@@ -8,15 +8,13 @@ void setup(){
 }
 
 void draw(){
+  background(239, 209, 198);
   fill(165, 190, 152);
   noStroke();
-  ellipse(x, 250, 20, 20);
-}
-
-void mousePressed(){
-  x = x+20;
-  redraw();
+  //ellipse(x, 250, 20, 20);
+  x=x+1;
   if (x>width){
-  x=10;
-}
+    x=0;
+  }
+  ellipse(x, 250, 20, 20);
 }
